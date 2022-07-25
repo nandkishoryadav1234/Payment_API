@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "TcTb1K4f302mw9PgLBWYyp+GI7hwyPM1ONzVs+NAx0SZDj22+s2qEgtlKodQu2k+3A1tz4oSu1urIyYycgkDtQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\NandKishor.Yadav\\LMS\\Asp.NetCore WebApi\\PaymentAPI\\Admin\\Admin.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\NandKishor.Yadav\\.nuget\\packages\\microsoft.extensions.apidescription.server\\3.0.0\\microsoft.extensions.apidescription.server.3.0.0.nupkg.sha512",
+    "C:\\Users\\NandKishor.Yadav\\.nuget\\packages\\microsoft.openapi\\1.2.3\\microsoft.openapi.1.2.3.nupkg.sha512",
+    "C:\\Users\\NandKishor.Yadav\\.nuget\\packages\\swashbuckle.aspnetcore\\5.6.3\\swashbuckle.aspnetcore.5.6.3.nupkg.sha512",
+    "C:\\Users\\NandKishor.Yadav\\.nuget\\packages\\swashbuckle.aspnetcore.swagger\\5.6.3\\swashbuckle.aspnetcore.swagger.5.6.3.nupkg.sha512",
+    "C:\\Users\\NandKishor.Yadav\\.nuget\\packages\\swashbuckle.aspnetcore.swaggergen\\5.6.3\\swashbuckle.aspnetcore.swaggergen.5.6.3.nupkg.sha512",
+    "C:\\Users\\NandKishor.Yadav\\.nuget\\packages\\swashbuckle.aspnetcore.swaggerui\\5.6.3\\swashbuckle.aspnetcore.swaggerui.5.6.3.nupkg.sha512"
+  ],
+  "logs": []
+}
